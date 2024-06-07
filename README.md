@@ -5,7 +5,7 @@
 </div>
 
 ## Deploy
-### [1]: https://mindmate.netlify.app
+### [1]: https://chatmindmate.netlify.app
 ## Preview  
 <div align="center">
     <img src="public/landing.png" />
